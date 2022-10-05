@@ -1,0 +1,6 @@
+fastapi==0.85.0
+uvicorn==0.18.3
+requests==2.28.1
+MarkupSafe==2.0.1
+Werkzeug==2.0.2
+pytest==6.2.5
